@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vuzz-local.github.io/wiz-team-inc-10e04/sitemap.xml
